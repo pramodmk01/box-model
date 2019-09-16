@@ -1,0 +1,193 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* ---------------------------------------------- */
+/* .wrapper {
+    margin: 30px 50px;
+
+} */
+.color {
+    display: inline-block;
+    color: rgb(196, 3, 41);
+    text-decoration: none;
+    margin: 15px 50px;
+    font-size: 20px;
+    text-transform: capitalize;
+
+}
+.corner  {
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+    
+}
+.cr {
+    text-align: right;
+    margin: 0px 50px;   
+     
+}
+.black {
+    background-color: rgb(36, 33, 33);
+    height: 450px;
+}
+h1 {
+    color: white;
+    font-size: 35px;
+    margin: 50px 0 10px 50px;
+    
+}
+.sec1 {
+
+    color: white;
+    width: 600px;
+    margin: 25px 50px;
+}
+.box1 {
+    color: white;
+    margin: 30px 50px;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 5px;
+    
+}
+.box2 {
+    color: rgb(196, 3, 41);
+    margin: 30px 50px;
+    text-decoration: none;
+    border: 2px solid rgb(196, 3, 41);
+    padding: 5px;
+    
+}
+h2 {
+    font-size: 30px;
+    margin: 60px 0 15px 50px;
+    color: red;
+}
+.sec2 {
+    margin: 15px 50px 20px 50px;
+
+
+}
+.azure {
+    height: 230px;
+
+}
+.sec3 {
+    text-align: center;
+    background-color: rgb(224, 221, 221);
+    height: 450px;
+    
+
+
+}
+h3 {
+color: rgb(196, 3, 41);
+font-size: 30px;
+padding: 60px 0 20px 0;
+}
+.circle {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(196, 3, 41);
+    border-radius: 100px;
+    /* margin: 20px 600px;    */
+    margin: 0 auto;
+}
+.colu {
+    margin: 20px 50px;
+    text-align: initial;
+}
+.sec4 {
+    background-color: rgb(196, 3, 41);
+    height: 450px;
+    color: white;
+    
+}
+h4 {
+    padding: 80px 0 20px 50px;
+    font-size: 26px;
+}
+.name {
+    margin: 0 0 20px 50px;
+}
+.rectangle1  {
+    color: rgb(196, 3, 41);
+    margin: 5px 50px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.Message {
+    margin: 20px 50px;
+}
+.rectangle2  {
+    color: rgb(196, 3, 41);
+    margin: 5px 50px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 40px;
+}
+.box3 {
+    display: inline-block;
+    color: white;
+    margin: 20px 50px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px;
+    
+
+}
+.small {
+    text-align: center;
+    font-size: 10px;
+}
+/* .wholewrapper {
+    margin: 0 70px;
+} */
